@@ -1,0 +1,21 @@
+body{
+  position: absolute;
+  right: 45%;
+  top:30%;
+
+}
+
+div{
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+#apple-shelf{
+  background-color: rgb(234, 141, 141);
+}
+
+#orange-shelf{
+  background-color:rgb(244, 152, 39);
+}
